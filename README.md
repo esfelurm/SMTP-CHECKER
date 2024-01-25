@@ -50,5 +50,5 @@ python SMTP-CHECKER.py
 
 # Hits
 
-<a href="https://github.com/esfelurm/SMTP-CHECKER/blob/main/HITS.txt">Hist Free Smtp</a>
+<a href="https://github.com/esfelurm/SMTP-CHECKER/blob/main/HITS.txt">Hits Free Smtp</a>
 
