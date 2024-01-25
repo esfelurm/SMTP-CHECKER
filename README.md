@@ -14,6 +14,10 @@ A tool to check the correctness of email and password
 
 To create a Combo, run the ComboEdit file, with this tool you can edit your Combo and add Host and Port to it. 
 
+Your combo: EMAIL:PASS
+
+Your Combo after using ComboEdit : HOST|PORT|EMAIL|PASS
+
 ```
 python ComboEdit.py
 input : Address Combo
@@ -43,3 +47,8 @@ git clone https://github.com/esfelurm/SMTP-CHECKER
 cd SMTP-CHECKER
 python SMTP-CHECKER.py
 ```
+
+# Hits
+
+<a href="https://github.com/esfelurm/SMTP-CHECKER/blob/main/HITS.txt>Hist Free Smtp </a>
+
