@@ -5,6 +5,13 @@ from colorama import init
 init(autoreset=True)
 rd, gn, lgn, yw, lrd, be, pe = '\033[00;31m', '\033[00;32m', '\033[01;32m', '\033[01;33m', '\033[01;31m', '\033[00;34m', '\033[01;35m'
 cn, k,g = '\033[00;36m', '\033[90m','\033[38;5;130m'
+
+from os import system as SY
+if __import__("platform").system == "Windows":
+	SY("cls")
+else:
+	SY("clear")
+
 print(f"""{k}
   __   __ __   _____   ___  
 /' _/ |  V  | |_   _| | _,\ 
