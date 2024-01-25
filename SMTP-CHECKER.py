@@ -23,7 +23,7 @@ print(f"""{k}
  \__/ |_||_| |___|  \__/ |_|\_\ |___| |_|_\ 
 
                                                    
-    {pe}SMPT CHECKER {cn}@esfelurm
+    {pe}SMTP CHECKER {cn}@esfelurm
     
  {yw}   Format SmtpList : HOST|PORT|EMAIL|PASSWORD
 """)
